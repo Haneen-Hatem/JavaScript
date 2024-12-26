@@ -1,0 +1,22 @@
+#btn,
+#turnon,
+#turnoff {
+    background-color: #2c9279;
+    color: #fff;
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: 700;
+    padding: 8px 15px;
+    letter-spacing: 1px;
+    border: none;
+    border-radius: 6px;
+    margin-right: 20px
+}
+
+#turnon {
+    background-color: #36a420;
+}
+
+#turnoff{
+    background-color: red;
+}
